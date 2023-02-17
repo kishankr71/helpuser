@@ -26,6 +26,10 @@
             "required": false},
         "G_DRIVE_CLIENT_SECRET": {
             "required": false},
+        "G_DRIVE_IS_TD": {
+            "required": false},
+        "DOWN_PATH": {
+            "required": false},
         "CMD_TRIGGER": {
             "required": false},
         "SUDO_TRIGGER": {
